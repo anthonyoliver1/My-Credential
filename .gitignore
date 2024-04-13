@@ -4,8 +4,7 @@
 node_modules/
 
 # Lock JSON
-package-lock.json
-yarn-lock.json
+*-lock.json
 
 # Expo
 .expo/
